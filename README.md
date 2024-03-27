@@ -1,0 +1,1 @@
+•	Data Preparation: Identifying the outliers in the dataset using and comparing several methods such as the boxplot and Grubbs test. Checked the normality by applying the Shapiro-Wilk Normality test and QQ plot. Used libraries: outliers, ggpubr
